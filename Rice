@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>How to make sum gud rice</title>
+    <head>
+    <body>
+        <h1>Basic homemade rice</h1>
+        <img src="./images/rice.jpg" alt="Welcome to the rice fields lol" height="180" width="210">
+
+            <p>
+            Rice is a cereal used in a wide variety of dishes throughout the globe.
+            The ways it can be prepared are countless, and it blends perfectly with other foods, making it a pillar of the world's nourishment.
+            For this specific occasion and for effects of laziness, we'll cover your standard issue cooked rice.
+            </p>
+
+            <h2>Ingredients</h2>
+                <ul>
+                    <li>1 long onion stalk, 6 or 7 cm approx.</li>
+                    <li>1 tsp salt</li> 
+                    <li>1 tbsp oil</li>
+                    <li>4 cups of water</li>
+                    <li>2 cups of rice</li>
+                </ul>
+            <h2>Instructions</h2>
+                <ol>
+                    <li>Put the water to boil in a pot.</li>
+                    <li>Add the salt and the oil to the water.</li>
+                    <li>While it boils, wash the rice in a strainer. (This one is optional, don't do it if you don't deem it necessary!)</li>
+                    <li>Once the water boils, pour the rice in the pot and mix it.</li>
+                    <li>Let it boil until the water level is the same as the rice. It should've made small-sized holes of steam in the rice at this point. </li>
+                    <li>Put the lid on the pot, and lower the heat to a point where the water won't completely evaporate, as the rice will burn if this happens. :c</li>
+                    <li>After 10 minutes, sprinkle the rice evenly with 1/4 cup of water.</li>
+                    <li>Repeat the previous step, and leave the rice for another 15 minutes.</li>
+                    <li>Serve with other foods of your liking, and enjoy.</li>
+                </ol>
+                
+        
+    </body>
+</html>
