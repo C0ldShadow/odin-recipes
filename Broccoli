@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>bruhccoli</title>
+        <head>
+            <body>
+                <h1>Beef Steak</h1>
+                <img src="./images/broccoli.jpg" alt="A very nice looking broccoli" height="275" width="400">
+                 <p>
+                    Broccoli is a vegetable with abundant 'heads' that give it a tree-like appearance.
+                    It bears a close resemblance to the cauliflower, being a green variation. It's usually steamed or boiled, but it can also be consumed raw.
+                </p>
+                <p>
+                    It has high amounts of vitamin C, vitamin E and healthy fiber.
+                </p>
+                <p>
+                    Also, some children hate them, for some reason.
+                </p>
+
+                <h2>Ingredients</h2>
+                <ul>
+                    <li>1 medium sized broccoli</li>
+                    <li>1L of water</li>
+                    <li>1 pinch of salt</li>
+                    <li>1 clove of garlic peeled and crushed</li>
+                    <li>1 tablespoon olive oil</li>
+                    <li>250g grated parmesan cheese</li>
+                    <li>200 g of milk cream</li>
+                </ul>
+            <h2>Instructions</h2>
+                <ol>
+                    <li>Boil the liter of water.</li>
+                    <li>Remove the leaves and wash the broccoli.</li>
+                    <li>Put it in the water once it boils.</li>
+                    <li>Add the salt and the garlic clove.</li>
+                    <li>Cover the pot and leave it boiling for 10 minutes.</li>
+                    <li>Turn off the heat, drain and put in a heat-resistant container.</li>
+                    <li>Add the milk cream on top of it.</li>
+                    <li>Add the parmesan cheese to the broccoli and milk cream.</li>
+                    <li>Bake at 150°C for three minutes.</li>
+                    <li>Serve and enjoy.</li>
+                </ol>
+                
+        
+    </body>
+</html>
