@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>beef steak my dude</title>
+    <head>
+    <body>
+        <h1>Beef Steak</h1>
+        <img src="./images/beef-steak.jpg" alt="Your standard issue beef steak" height="200" width="350">
+
+            <p>
+           Beef steak is a flat cut of beef, being a common serving in some restaurants, being prepared in varying degrees depending on the cut.
+           It's also a very popular option in homes due to its high nutritional value and easy preparation.
+            </p>
+
+            <h2>Ingredients</h2>
+                <ul>
+                    <li>1 lb soft meat cut into pieces</li>
+                    <li>500g red tomato</li>
+                    <li>500 grams of white big onion</li>
+                    <li>1 stick of celery</li>
+                    <li>Half a red pepper without seeds</li>
+                    <li>4 tablespoons of oil</li>
+                    <li>1 pinch of salt</li>
+                    <li>1 pinch of pepper</li>
+                    <li>1 teaspoon of oregano</li>
+                    <li>4 tablespoons soy sauce</li>
+                    <li>2 bay leaves</li>
+                    <li>2 cloves of garlic peeled and crushed</li>
+
+
+                </ul>
+            <h2>Instructions</h2>
+                <ol>
+                    <li>Heat the oil in a frying pan.</li>
+                    <li>Add the meat and seal it on both sides.</li>
+                    <li>Chop the onion into slices and add it to the meat.</li>
+                    <li>Peel and chop the tomatoes into slices. Add to the pan with the meat.</li>
+                    <li>Add the spices and the soy sauce.</li>
+                    <li>Stir and leave the meat on the mixture.</li>
+                    <li>Cover and leave over medium-low heat for 15 minutes.</li>
+                    <li>Turn off the heat and stir the preparation.</li>
+                    <li>Serve and enjoy.</li>
+                </ol>
+                
+        
+    </body>
+</html>
